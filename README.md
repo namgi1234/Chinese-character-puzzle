@@ -1,1 +1,4 @@
-# chinese-charecter-puzzle
+# Chinese character puzzle
+
+#Demo
+https://ecc-chinese.netlify.app
